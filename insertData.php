@@ -10,19 +10,19 @@
                 <tr>
                     <td>학번</td>
                     <td>
-                        <input type="text" maxlength="10" name="id">
+                        <input type="text" maxlength="10" name="id" />
                     </td>
                 </tr>
                 <tr>
                     <td>이름</td>
                     <td>
-                        <input type="text" maxlength="10" name="name">
+                        <input type="text" maxlength="10" name="name" />
                     </td>
                 </tr>
                 <tr>
                     <td>주소</td>
                     <td>
-                        <input type="text" size="40" name="addr">
+                        <input type="text" size="40" name="addr" />
                     </td>
                 </tr>
                 <tr>
